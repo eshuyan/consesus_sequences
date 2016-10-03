@@ -1,6 +1,6 @@
 # consesus_sequences
 
-## 1. Motivation of the programma
+## 1. Motivation 
 ## When a protein module binds to the others, it usually reconganizes similar sequence motifs. The aim and motivation of this programme is to do a worm whole protein sequence search for consesus sequences.
 
 ## 2. Design Version 1
